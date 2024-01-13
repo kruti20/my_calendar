@@ -12,7 +12,6 @@ class Calendar extends Component
     public function render()
     {
         $this->getCalendarDateData();
-        Log::info($this->calendarDateData);
         $events = Event::select('event_id','type','meeting_address','location','start_date_time','end_date_time')->get();
         //Log::info($events);
         return view('livewire.calendar');

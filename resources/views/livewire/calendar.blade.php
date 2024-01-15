@@ -54,7 +54,7 @@
                                             <span class="b_time lightprpl2">09:15 - 09:30</span>
                                         </div>
                                         <div class="td2">
-                                            <span class="b_time lightprpl full_height">Design Team Metting</span>
+                                            <span class="b_time lightprpl full_height">Design Team Meeting</span>
                                             <!-- mcalender_popup start -->
                                             <div class="mcalender_popup">
                                                 <div class="top_option">
@@ -69,7 +69,7 @@
                                                     <div class="eventcolor">
                                                         <span class="roundcolor"></span>
                                                     </div>
-                                                    <h3>Design Team Metting</h3>
+                                                    <h3>Design Team Meeting</h3>
                                                     <div class="choosecolor">
                                                         <ul>
                                                             <li style="background-color:#6E1588;"></li>
